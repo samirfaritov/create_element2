@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.conteiner {
+    width: 100%;
+    height: 100%;
+    padding: 20px 30px;
+    display: flex;
+    gap: 40px;
+}
+
+.conteiner .b {
+    width: 2px;
+    height: 75vh;
+    background: #ccc;
+    margin-top: 90px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+.conteiner .left {
+    width: 40%;
+    height: 100%;
+}
+
+.conteiner .left .box {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+
+}
+
+.conteiner .left .box .item {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.conteiner .box .item2 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.conteiner .box .item3 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.conteiner .box .item4 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.conteiner .box .item5 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.conteiner .box .item6 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.conteiner .box .item7 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.conteiner .box .item8 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.conteiner .box .item9 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.conteiner .box .item10 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.conteiner .p1 {
+    text-align: center;
+    padding-top: 3px;
+}
+
+
+
+.conteiner .right .box1 .klon {
+    width: 220px;
+    height: 30px;
+    border: 1px solid transparent;
+    background-color: blue;
+    border-radius: 10px;
+}
+
+.conteiner .right .box1 {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.p2 {
+    text-align: center;
+    padding-top: 3px;
+    color: #fff;
+}
+
+.conteiner .right {
+    width: 60%;
+    height: 100%;
+}
